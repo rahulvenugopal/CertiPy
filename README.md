@@ -23,6 +23,6 @@ These are the generated images/PDFs. We can style the text in lot many ways
 
 ![MN](https://github.com/rahulvenugopal/CertiPy/blob/main/certificate_generated/Mangalasherry%20Neelakandan.jpg)
 
-I have added a simple alignment options by tweaking text length (Couldn't get the align option to work neatly)
+I have added a simple alignment option by tweaking text length (Couldn't get the align option to work neatly)
 
 We can add multiple texts (like registration number) by extending the script!
