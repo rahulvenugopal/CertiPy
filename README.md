@@ -7,9 +7,7 @@ Doing this manually is daunting, error prone and waste of time when you are year
 
 IF you speak `parseltongue` :snake: you are in luck to automate this boring stuff
 
-Enter `certiPy` :tada:  <img src="https://github.com/rahulvenugopal/CertiPy/blob/main/certi.png" width="10px" />
-
-<img src="https://github.com/rahulvenugopal/CertiPy/blob/main/certi.png" height="10px" />
+Enter `certiPy` :tada:  <img src="https://github.com/rahulvenugopal/CertiPy/blob/main/certi.png" width="40px" />
 
 ---
 
