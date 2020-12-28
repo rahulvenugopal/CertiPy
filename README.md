@@ -25,4 +25,6 @@ These are the generated images/PDFs. We can style the text in lot many ways
 
 I have added a simple alignment option by tweaking text length (Couldn't get the align option to work neatly)
 
-We can add multiple texts (like registration number) by extending the script!
+~~We can add multiple texts (like registration number) by extending the script!~~
+
+Look up certiPy_receipt_lab.py where three texts are added to a receipt image
