@@ -27,4 +27,4 @@ I have added a simple alignment option by tweaking text length (Couldn't get the
 
 ~~We can add multiple texts (like registration number) by extending the script!~~
 
-Look up certiPy_receipt_lab.py where three texts are added to a receipt image
+Look up [certiPy_receipt_lab.py](https://github.com/rahulvenugopal/CertiPy/blob/main/certiPy_receipt_lab.py) where three texts are added to a receipt image
